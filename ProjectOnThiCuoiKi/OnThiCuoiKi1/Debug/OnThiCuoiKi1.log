@@ -1,0 +1,4 @@
+﻿  OnThiCuoiKi1.cpp
+C:\Users\Admin\source\repos\OnThiCuoiKi\OnThiCuoiKi1\OnThiCuoiKi1.cpp(52,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\source\repos\OnThiCuoiKi\OnThiCuoiKi1\OnThiCuoiKi1.cpp(58,23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  OnThiCuoiKi1.vcxproj -> C:\Users\Admin\source\repos\OnThiCuoiKi\Debug\OnThiCuoiKi1.exe

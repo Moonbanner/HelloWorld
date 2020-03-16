@@ -1,0 +1,5 @@
+﻿  OnThiCuoiKi2.cpp
+C:\Users\Admin\source\repos\OnThiCuoiKi\OnThiCuoiKi2\OnThiCuoiKi2.cpp(85,16): error C2143: syntax error: missing ')' before ','
+C:\Users\Admin\source\repos\OnThiCuoiKi\OnThiCuoiKi2\OnThiCuoiKi2.cpp(85,16): error C2660: 'SoSanh': function does not take 0 arguments
+C:\Users\Admin\source\repos\OnThiCuoiKi\OnThiCuoiKi2\OnThiCuoiKi2.cpp(50,6): message : see declaration of 'SoSanh'
+C:\Users\Admin\source\repos\OnThiCuoiKi\OnThiCuoiKi2\OnThiCuoiKi2.cpp(85,19): error C2059: syntax error: ')'
