@@ -1,0 +1,4 @@
+﻿  TKC2.cpp
+C:\Users\Admin\source\repos\test\TKC2\TKC2.cpp(57,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\source\repos\test\TKC2\TKC2.cpp(62,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\source\repos\test\TKC2\TKC2.cpp(67): error C4716: 'XuatMax': must return a value
